@@ -1,0 +1,44 @@
+:root {
+  --color-bg-shaded: #f2f4f6;
+  --color-line: #c5c9cf;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.8em;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2.5em 0;
+}
+
+hr {
+  border: 1px solid var(--color-line);
+  margin: 2.5em 0;
+}
+
+pre {
+  background-color: var(--color-bg-shaded);
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+}
+
+th,
+td {
+  border: 1px solid var(--color-line);
+  padding: 0.3em 0.6em;
+}
+
+h4 {
+  text-decoration: underline;
+}
