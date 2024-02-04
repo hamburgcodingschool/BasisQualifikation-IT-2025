@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
-tags: uebung
 title: Programmierung mit Robot Karol
+shortUrl: tinyurl.com/cvwdc7u3
 ---
 
 ## Übung 1

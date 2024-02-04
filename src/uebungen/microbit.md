@@ -1,12 +1,12 @@
 ---
 layout: layout.njk
-tags: uebung
 title: 'Programmierung mit micro:bit'
+shortUrl: tinyurl.com/bdzdr7vk
 ---
 
-## Hinweise
+### Hinweise
 
-### Deutsche Sprache einstellen
+#### Deutsche Sprache einstellen
 
 Befolgen Sie diesen Hinweis, falls der [micro:bit Online Editor](https://makecode.microbit.org/) nicht auf Deutsch angezeigt wird.
 
@@ -14,13 +14,23 @@ Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig die Option **
 
 Die Texte der Anleitungen sind leider nicht vollständig auf deutsche übersetzt. Mithilfe des Glühbirne-Knopfes können Sie sich das gewünschte Ergebnis jedes Schrittes anzeigen lassen.
 
-### Download-Option
+#### Download-Option
 
 Der [micro:bit Online Editor](https://makecode.microbit.org/) bietet Ihnen eine **Download-Option** an. Dadurch ist es möglich, das Programm auf der micro:bit Hardware zu starten. Sie benötigen das Gerät, um diese Option nutzen zu können.
 
 ---
 
 ## Übung 1
+
+### micro:bit kennenlernen (Wenn Sie die micro:bit Hardware haben)
+
+Schließen Sie den micro:bit an eine Stromquelle via USB-Kabel an (z.B. an einen Laptop).
+
+Folgen Sie den Vorgaben auf dem LED-Display des micro:bit.
+
+---
+
+## Übung 2
 
 ### Anleitungen: Flash Heart
 
@@ -32,7 +42,7 @@ Starten Sie die Anleitung **"Flashing Heart"**. (Wählen Sie die Option **"Blöc
 
 ---
 
-## Übung 2
+## Übung 3
 
 ### Anleitungen: Name Tag
 
@@ -44,7 +54,7 @@ Starten Sie die Anleitung **"Name Tag"**. (Wählen Sie die Option **"Blocks"**)
 
 ---
 
-## Übung 3
+## Übung 4
 
 ### Anleitungen: Smiley Buttons
 
@@ -56,7 +66,7 @@ Starten Sie die Anleitung **"Smiley Buttons"**. (Wählen Sie die Option **"Blöc
 
 ---
 
-## Übung 4
+## Übung 5
 
 ### Anleitungen: Dice
 
@@ -68,7 +78,7 @@ Starten Sie die Anleitung **"Dice"**. (Wählen Sie die Option **"Blöcke"**)
 
 ---
 
-## Übung 5
+## Übung 6
 
 ### Anleitungen: Love Meter
 
@@ -80,9 +90,9 @@ Starten Sie die Anleitung **"Love Meter"**. (Wählen Sie die Option **"Blöcke"*
 
 ---
 
-## Übung 6
+## Übung 7
 
-## Spiel: Schere, Stein, Papier
+### Spiel: Schere, Stein, Papier
 
 Öffnen Sie den [micro:bit Online Editor](https://makecode.microbit.org/).
 
@@ -92,7 +102,7 @@ Starten Sie die Anleitung für das Spiel **"Rock Paper Scissors"**. (Wählen Sie
 
 ---
 
-## Übung 7
+## Übung 8
 
 ### Spiel: Münzwurf
 
@@ -119,7 +129,7 @@ Sie können sechs unterschiedliche Symbole Ihrer Wahl darstellen (z.B. die sechs
 
 ---
 
-## Übung 8
+## Übung 9
 
 ### Ihre eigenen Ideen
 

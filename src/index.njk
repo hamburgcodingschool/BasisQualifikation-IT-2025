@@ -3,7 +3,14 @@ layout: layout.njk
 ---
 <h2>Übungen</h2>
 <ul>
-{%- for item in collections.uebung -%}
-  <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+{%- for item in collections.uebungen -%}
+  <li><a href="{{ item.url | relativeUrl(page) }}">{{ item.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
+<h2>Tests</h2>
+<ul>
+{%- for item in collections.tests -%}
+  <li><a href="{{ item.url | relativeUrl(page) }}">{{ item.data.title }}</a></li>
 {%- endfor -%}
 </ul>

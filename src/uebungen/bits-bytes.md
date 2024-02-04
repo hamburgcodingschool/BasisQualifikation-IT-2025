@@ -1,10 +1,41 @@
 ---
 layout: layout.njk
-tags: uebung
-title: Datenmengen
+title: Bits und Bytes
+shortUrl: tinyurl.com/24jrea2w
 ---
 
 ## Übung 1
+
+### Grundlagen zu Bits und Bytes
+
+Lesen Sie den folgenden Artikel:
+
+[Dirk Löbe: Bits und Bytes](https://www.dirks-computerecke.de/programmieren/bits-und-bytes.htm)
+
+Beantworten Sie anschließende die folgenden Fragen durch schriftliche Notizen:
+
+1. Was ist ein Bit?
+2. Warum kann ein Bit als ein Schalter verstanden werden?
+3. Was ist ein Byte?
+4. Wie viele Bit bilden ein Byte?
+5. Warum sind Bits und Bytes wichtig für die Datenspeicherung?
+6. Warum sind Bits und Bytes wichtig für die Datenübertragung?
+
+---
+
+## Übung 2
+
+### Kilobyte vs. Kibibyte (1000 vs. 1024)
+
+Lesen Sie den folgenden Artikel:
+
+[Elektronik Kompendium: Einheiten in der IT](https://www.elektronik-kompendium.de/sites/com/1401171.htm)
+
+Erklären Sie anschließend den Unterschied zwischen Kilobyte (10<sup>3</sup> = 1000 Bytes) und Kibibyte (2<sup>10</sup> = 1024 Bytes)
+
+---
+
+## Übung 3
 
 ### Größenordnungen
 
@@ -18,22 +49,22 @@ Ordnen Sie die folgenden Angaben nach ihrer Größe aufsteigend.
 
 ---
 
-## Übung 2
+## Übung 4
 
 ### Bit zu Byte
 
 Rechnen Sie die folgenden Angaben von Bit in Byte um.
 
 - 8 Bit
-- 16 Bit
 - 32 Bit
-- 40 Bit
-- 48 Bit
 - 56 Bit
+- 16 Bit
+- 48 Bit
+- 40 Bit
 
 ---
 
-## Übung 3
+## Übung 5
 
 ### Bit zu Byte mit größeren Zahlen
 
@@ -49,7 +80,7 @@ Rechnen Sie die folgenden Angaben von Bit in Byte um.
 
 ---
 
-## Übung 4
+## Übung 6
 
 ### Byte zu Bit
 
@@ -64,7 +95,7 @@ Rechnen Sie die folgenden Angaben von Byte in Bit um.
 
 ---
 
-## Übung 5
+## Übung 7
 
 ### Byte zu Bit mit größeren Zahlen
 
@@ -79,22 +110,22 @@ Rechnen Sie die folgenden Angaben von Byte in Bit um.
 
 ---
 
-## Übung 6
+## Übung 8
 
 ### Kibibytes (KiB) zu Bytes
 
 Rechnen Sie die folgenden Angaben von Kibibytes zu Bytes um.
 
-- 1 Kibibytes (KiB)
-- 2 Kibibytes (KiB)
-- 3 Kibibytes (KiB)
-- 4 Kibibytes (KiB)
 - 5 Kibibytes (KiB)
+- 1 Kibibytes (KiB)
+- 4 Kibibytes (KiB)
 - 6 Kibibytes (KiB)
+- 3 Kibibytes (KiB)
+- 2 Kibibytes (KiB)
 
 ---
 
-## Übung 7
+## Übung 9
 
 ### Bytes zu Kibibytes (KiB)
 
@@ -110,28 +141,28 @@ Rechnen Sie die folgenden Angaben von Bytes in Kibibytes um.
 
 ---
 
-## Übung 8
+## Übung 10
 
 ### Bits zu Bytes zu Kibibytes (KiB)
 
 Vervollständigen Sie die folgende Tabelle.
 
-| Bits   | Bytes | Kibibytes (KiB) |
-| ------ | ----- | --------------- |
-|        |       | 1               |
-|        | 2.048 |                 |
-| 24.576 |       |                 |
-|        |       | 4               |
-| 40.960 |       |                 |
-|        |       | 6               |
-|        | 7.168 |                 |
-| 65536  |       |                 |
-|        |       | 9               |
-|        | 9.216 |                 |
+| Bits   | Bytes  | Kibibytes (KiB) |
+| ------ | ------ | --------------- |
+|        |        | 1               |
+|        |        | 4               |
+|        | 2.048  |                 |
+|        |        | 9               |
+| 24.576 |        |                 |
+|        | 10.240 |                 |
+|        | 7.168  |                 |
+| 40.960 |        |                 |
+| 65.536 |        |                 |
+|        |        | 6               |
 
 ---
 
-## Übung 9
+## Übung 11
 
 ### Größer oder kleiner
 
@@ -145,7 +176,7 @@ Vergleichen Sie die Werte in den Spalten A und B. Legen Sie jeweils fest, welche
 | **4.**  | 2048 Kibibytes (KiB) | 3 Mebibytes (MiB)    |
 | **5.**  | 1 Byte               | 10 Bits              |
 | **6.**  | 1024 Kibibytes (KiB) | 1 Mebibyte (MiB)     |
-| **7.**  | 16 Bits              | 1 Bytes              |
+| **7.**  | 16 Bits              | 1 Byte               |
 | **8.**  | 2048 Kibibytes (KiB) | 1 Mebibytes (MiB)    |
 | **9.**  | 4 Gibibytes (GiB)    | 4096 Mebibytes (MiB) |
 | **10.** | 3 Kibibytes (KiB)    | 2048 Bytes           |

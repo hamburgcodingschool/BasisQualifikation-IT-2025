@@ -1,12 +1,69 @@
 ---
 layout: layout.njk
-tags: uebung
-title: 'Binärsystem: Umrechnung vom Binär- zum Dezimalsystem'
+title: 'Binärsystem Teil 1: Einführung und Umrechnung vom Binär- zum Dezimalsystem'
+shortUrl: tinyurl.com/s2nbt5et
 ---
 
 ## Übung 1
 
-### Zweistellige binäre Zahlen
+### Grundlagen des Binärsystems
+
+Lesen Sie die folgenden Erklärungen zum Binärsystem:
+
+- [Mathelust: Das Binärsystem](https://www.mathelust.de/das-binaersystem/) (bis zum Abschnitt "Die geometrische Reihe")
+- [Serlo: Binärsystem](https://de.serlo.org/informatik/181058/bin%C3%A4rsystem)
+
+Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
+
+1. Warum ist das Binärsystem wichtig für die Funktionsweise von Computern?
+2. Wie viele unterschiedliche Ziffern werden im Binärsystem genutzt?
+3. Welche Ziffern werden im Binärsystem genutzt?
+
+---
+
+## Übung 2
+
+### Potenzen zur Basis zwei
+
+Schreiben Sie eine Liste von allen ganzzahligen Potenzen mit der Basis 2 auf. Beginnen Sie bei dem Exponent 0 und beenden Sie die Liste mit dem Exponent 6.
+
+Notieren Sie jeweils die Schreibweise als:
+
+- Potenz: Basis 2 mit Exponent
+- ausgeschriebene Multiplikation (ab dem Exponent 3)
+- Potenzwert: Ergebnis der Multiplikation
+
+#### Beispiel
+
+Orientieren Sie sich an diesem Beispiel für die **Potenz 7**.
+
+- 2<sup>7</sup>
+- 2 × 2 × 2 × 2 × 2 × 2 × 2
+- 128
+
+---
+
+## Übung 3
+
+### Zweistellige Zahlen im Binärsystem
+
+1. Wie viele unterschiedliche Werte kann eine Zahl mit zwei Stellen im Binärsystem abbilden?
+2. Listen Sie alle Werte auf, die eine Zahl mit zwei Stellen im Binärsystem abbilden kann. (in dezimaler und binärer Schreibweise)
+
+---
+
+## Übung 4
+
+### Dreistellige Zahlen im Binärsystem
+
+1. Wie viele unterschiedliche Werte kann eine Zahl mit drei Stellen im Binärsystem abbilden?
+2. Listen Sie alle Werte auf, die eine Zahl mit zwei Stellen im Binärsystem abbilden kann. (in dezimaler und binärer Schreibweise)
+
+---
+
+## Übung 5
+
+### Zweistellige binäre Zahlen umrechnen
 
 Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
 
@@ -34,9 +91,9 @@ Orientieren Sie sich an diesem **Beispiel für die Binärzahl 10**.
 
 ---
 
-## Übung 2
+## Übung 6
 
-### Dreistellige binäre Zahlen
+### Dreistellige binäre Zahlen umrechnen
 
 Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
 
@@ -69,9 +126,9 @@ Orientieren Sie sich an diesem **Beispiel für die Binärzahl 101**.
 
 ---
 
-## Übung 3
+## Übung 7
 
-### Vierstellige binäre Zahlen
+### Vierstellige binäre Zahlen umrechnen
 
 Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
 
@@ -104,9 +161,9 @@ Orientieren Sie sich an diesem **Beispiel für die Binärzahl 1100**.
 
 ---
 
-## Übung 4
+## Übung 8
 
-### Fünfstellige binäre Zahlen
+### Fünfstellige binäre Zahlen umrechnen
 
 Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
 
@@ -136,3 +193,26 @@ Orientieren Sie sich an diesem **Beispiel für die Binärzahl 10101**.
 1×16 + 0×8 + 1×4 + 0×2 + 1×1 = 16 + 0 + 4 + 0 + 1 = 21
 
 **Ergebnis: 21**
+
+---
+
+## Übung 9
+
+### Sechsstellige binäre Zahlen umrechnen
+
+Rechnen Sie die folgenden Zahlen des Binärsystems in das Dezimalsystem um.
+
+1. 111010
+2. 010011
+3. 111000
+4. 001010
+5. 110101
+6. 111111
+7. 100001
+8. 001000
+9. 111011
+10. 010011
+11. 100100
+12. 100111
+13. 000001
+14. 010101

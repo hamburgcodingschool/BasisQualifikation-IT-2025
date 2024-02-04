@@ -1,16 +1,16 @@
 ---
 layout: layout.njk
-tags: uebung
 title: Programmierung mit Scratch
+shortUrl: tinyurl.com/mm4x9hvc
 ---
 
-## Hinweise
+### Hinweise
 
-### Deutsche Sprache einstellen
+#### Deutsche Sprache einstellen
 
 Befolgen Sie diesen Hinweis, falls [Scratch](https://scratch.mit.edu) nicht auf Deutsch angezeigt wird.
 
-Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig die ein Auswahlfeld zum Anpassen der Sprache. Bitte stellen Sie die Sprache auf "Deutsch" um.
+Gehen Sie ganz zum Ende der Seite. Dort befindet sich unten mittig ein Auswahlfeld zum Anpassen der Sprache. Bitte stellen Sie die Sprache auf "Deutsch" um.
 
 ---
 
@@ -24,7 +24,7 @@ Folgen Sie den Anweisungen in dem **grünen Kasten**. Wenn Sie fertig sind, klic
 
 ---
 
-## Übung 4
+## Übung 2
 
 ### Tutorial: Stell dir eine Welt vor
 
@@ -93,7 +93,7 @@ Selektieren Sie die Spielfigur und fügen Sie diese Logik hinzu
     - Warte 1 Sekunde
     - Verstecke die Spielfigur
 - Wenn die Spielfigur angeklickt wird
-  - Erhöhe der Werte der Variable "Punkte" um "1"
+  - Erhöhe den Werte der Variable "Punkte" um 1
   - Spiele einen Klang ab (Wählen Sie einen Klang Ihrer Wahl)
 
 ---
@@ -102,6 +102,6 @@ Selektieren Sie die Spielfigur und fügen Sie diese Logik hinzu
 
 ### Ihre eigenen Ideen
 
-Erstellen Sie ein neues Projekt. Entwickeln Sie eine eigene Idee für eine Scratch Anwendung und setzen Sie diese um.
+Erstellen Sie ein neues Projekt. Entwickeln Sie eigene Ideen für eine Scratch Anwendung und setzen Sie diese um.
 
 Alternativ können Sie weitere Tutorials aus der Liste bearbeiten.
