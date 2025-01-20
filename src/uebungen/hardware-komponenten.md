@@ -49,7 +49,7 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
 Lesen Sie den folgenden Artikel:
 
-[Dirk Löbe: Mainboard kaufen – Worauf sollte man beim Motherboard achten?](https://www.dirks-computerecke.de/hardware/mainboard.htm) (Abschnitt "Der Prozesssockel)
+[Dirk Löbe: Mainboard kaufen – Worauf sollte man beim Motherboard achten?](https://web.archive.org/web/20230609083832/https://www.dirks-computerecke.de/hardware/mainboard.htm) (Abschnitt "Der Prozesssockel)
 
 Erklären Sie, warum der Prozessorsockel auf dem Mainboard eine wichtige Rolle spielt.
 
@@ -80,7 +80,7 @@ Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
 
 Lesen Sie die folgenden Artikel:
 
-- [Dirk Löbe: RAM](https://www.dirks-computerecke.de/hardware/ram-random-access-memory.htm) (Bis zum Abschnitt "RAM-Typen und Geschwindigkeiten")
+- [Dirk Löbe: RAM](https://web.archive.org/web/20231002012048/https://www.dirks-computerecke.de/hardware/ram-random-access-memory.htm) (Bis zum Abschnitt "RAM-Typen und Geschwindigkeiten")
 - [Dirk Löbe: Was ist der Unterschied zwischen RAM und Festplattenspeicher?](https://www.dirks-computerecke.de/hardware/unterschied-ram-festplattenspeicher.htm) (Bis zum Abschnitt "Beispiele für Anwendungen und ihre RAM-Anforderungen")
 
 Beantworten Sie anschließend die folgenden Fragen durch schriftliche Notizen:
